@@ -18,15 +18,16 @@ body {
 	height:35px;
 	width:auto;
 }
-#work{
-	
-	height: 300px;
-	width: 1236px;
-	
+.responsive{
+	width: 100%;
+    max-width: 1238px;
+    height: auto;
 }
+	
 #section{
-	margin-top: 30px;
-	height:300px;
+	margin: auto;
+	margin-top: 43px;
+	height:auto;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 #about {
@@ -105,24 +106,40 @@ body {
   margin: 30px;
   margin-left: 100px;
   list-style-type: none;
-  border: 2px solid #90C695;
+  
   border-radius: 100%;
   width: 100px;
   height: 100px;
   line-height: 100px;
-  background: #e0ebe8;
+  background: #FFFFFF;
   color: #008080;
   text-decoration: none;
-  border: 2px solid #90C695;
+  
   
     
 }
 
-.contact-details:hover {
-  background: #E4F1FE;
-  color: green;
+
+
+.fa:hover {
+    opacity: 0.7;
 }
 
+.contact-details:hover {
+  background: #E4F1FE;
+  color: auto;
+}
+
+footer {
+  padding: 20px;
+  background: #22313F;
+  color: white;
+  line-height: 40px;
+}
+
+footer a {
+  color: white;
+}
 
 
   
