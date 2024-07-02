@@ -1,0 +1,137 @@
+{
+    "name": "Puneet Raj",
+    "email": "mailstopuneet@gmail.com",
+    "subtitles": [
+        "Flutter Developer",
+        "Product Manager",
+        "Visual Designer"
+    ],
+    "blackWhitePhotoURL": "https://drive.google.com/uc?export=view&id=1np1Or8kvpEmH5ghkFN5GJGqU8VAQRUCH",
+    "coloredPhotoURL": "https://drive.google.com/uc?export=view&id=1wE4FRqC9bRrzOqS64b48--ykLK1yklTJ",
+    "socialLinks": [
+        {
+            "platform": "facebook",
+            "url": "https://facebook.com/lightyg"
+        },
+        {
+            "platform": "instagram",
+            "url": "https://instagram.com/hoenkava"
+        },
+        {
+            "platform": "twitter",
+            "url": "https://twitter.com/hoenkava"
+        },
+        {
+            "platform": "linkedin",
+            "url": "https://linkedin.com/in/hoenkava"
+        },
+        {
+            "platform": "github",
+            "url": "https://github.com/hoenkava"
+        },
+        {
+            "platform": "medium",
+            "url": "https://hoenkava.medium.com/"
+        }
+    ],
+    "aboutMeHeadline": "I'm Puneet Raj, a Flutter developer, Product Manager and a Visual Designer.",
+    "aboueMeDetails": "I'm a ",
+    "technologies": [
+        "Flutter",
+        "Dart",
+        "JavaScript",
+        "Java",
+        "C++",
+        "Figma"
+    ],
+    "services": [
+        {
+            "icon": "assets/services/app.png",
+            "name": "Mobile App Development",
+            "description": "Android app development via Flutter\n- Splash Screen\n- Firebase Auth/Cloud\n- REST APIs\n- Maps integration and more...!"
+        },
+        {
+            "icon": "assets/services/ui.png",
+            "name": "UI/UX Designing",
+            "description": "Modern UI/UX Designing\n- Figma\n- Mobile & Web designs\n- Interactive UI designs\n- Responsiveness\n- Promo Videos and more..!"
+        },
+        {
+            "icon": "assets/services/rapid.png",
+            "name": "Video/Photo",
+            "description": "Professional Video Editing\n- For Instagram Reels\n- For YouTube\n- For TikTok\n- For Facebook\n- For LinkedIn and more..!"
+        },
+        {
+            "icon": "assets/services/blog.png",
+            "name": "Social Media Handeling",
+            "description": "Social Media Handling\n- Instagram\n- Facebook\n- LinkedIn\n- Twitter\n- YouTube and more...!"
+        },
+        {
+            "icon": "assets/services/open.png",
+            "name": "Web Development",
+            "description": "Web Development\n- React Web\n- HTML/CSS/JS\n- Responsive Designs\n- Web Hosting\n- Domain Management and more...!"
+        }
+    ],
+    "hireMe": {
+        "whatsapp": "9968042056"
+    },
+    
+        "projects": [
+            {
+                "title": "Live Photo Detector Package",
+                "iconUrl": "assets/projects/flutter.png",
+                "bannerUrl": "assets/projects/livePhotoDetectorB.png",
+                "description": "Liveness detection for face recognition in biometrics is a technique where an algorithm detects if the person in front of the camera is alive and real. Or if someone is trying to fool the system using a static image.",
+                "link": "https://pub.dev/packages/live_photo_detector"
+            },
+            {
+                "title": "The Hindu",
+                "iconUrl": "assets/projects/thehindu.png",
+                "bannerUrl": "assets/projects/hinduB.png",
+                "description": "Hindu Prayer\" is your gateway to a spiritually enriched start every day. Begin your mornings with the sacred verses of the Bhagavad Gita, with a carefully curated selection of shlokas to guide and inspire you.",
+                "link": "https://play.google.com/store/apps/details?id=com.the_hindu_way&hl=en_IN"
+            },
+            {
+                "title": "Spindle",
+                "iconUrl": "assets/projects/flutter.png",
+                "bannerUrl": "assets/projects/spindleB.jpg",
+                "description": "Spindle is for businesses and their customers to administer all type of documents (invoices, receipts, bills and other documents) digitally by eliminate the inconvenience of handling paper for printing transactional document and other associated costs.",
+                "link": "https://play.google.com/store/apps/details?id=com.spindle.smartgenx&hl=en_IN&gl=US"
+            },
+            {
+                "title": "Khaana Paani",
+                "iconUrl": "assets/services/open_b.png",
+                "bannerUrl": "assets/projects/khaanaPaaniB.jpg",
+                "description": "The Khaana Paani App Services Offered Contactless Table Order Food Delivery Take Away Search Restaurants / Street Vendors View Digital Menu User Reviews Hassle - Free Contactless Table Ordering Ease of Payment Live Status Update Pay via UPI / Debit / Credit Cards",
+                "link": ""
+            },
+            {
+                "title": "Khaana Paani Partner",
+                "iconUrl": "assets/projects/android.png",
+                "bannerUrl": "assets/projects/khaanapaanipartnerB.jpg",
+                "description": "An Excellent, Efficient and a Great Way to Grow and Manage Food Outlet. Bring Food Outlet Services Online for to the Users. Accept orders directly from customers instead of third-party aggregators.",
+                "link": ""
+            },
+            {
+                "title": "Insta Ringtone",
+                "iconUrl": "assets/projects/earbender.png",
+                "bannerUrl": "assets/projects/medkitB.png",
+                "description": "Insta Ringtone\" – is ultimate destination for a symphony of sounds tailored to your experience. Dive into a world of customizable ringtones for calls, alarms, and messages, designed to harmonize seamlessly with your daily life.",
+                "link": "https://play.google.com/store/apps/details?id=com.iphoneringtoneapp&hl=en_IN"
+            }
+        ],
+        
+    "contact": [
+        {
+            "param": "address",
+            "value": "Delhi, India"
+        },
+        {
+            "param": "phone",
+            "value": "+91 9968042056"
+        },
+        {
+            "param": "email",
+            "value": "mailstopuneet@gmail.com"
+        }
+    ]
+}
