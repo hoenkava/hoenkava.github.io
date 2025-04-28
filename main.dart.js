@@ -16225,7 +16225,7 @@ r.toString
 A.lL(r)
 q=a.k(0,"swipeEdge")
 q.toString
-return new A.FW(s,r,B.CM[A.cC(q)])},
+return new A.FW(s,r,B.CL[A.cC(q)])},
 x4:function x4(a,b){this.a=a
 this.b=b},
 FW:function FW(a,b,c){this.a=a
@@ -21413,7 +21413,7 @@ s=r*s
 r*=a
 return new A.X(r,s,r,s)},
 af3(){var s="Montserrat",r=null
-return A.fY(B.a0,A.a([A.aV("I'm Puneet Raj \u2013 Founder",r,r,$.or.jc(s),r),A.dh("assets/emojis/founder.png",r,r,24,24),A.aV(" Flutter Developer",r,r,$.or.jc(s),r),A.dh("assets/emojis/productmanager.png",r,r,24,24),A.aV(" Product Manager",r,r,$.or.jc(s),r),A.dh("assets/emojis/flutterdev.png",r,r,24,24),A.aV(" UX Designer",r,r,$.or.jc(s),r),A.dh("assets/emojis/ux.png",r,r,24,24),A.aV("and Visual Storyteller",r,r,$.or.jc(s),r),A.dh("assets/emojis/vt.png",r,r,24,24),A.aV(".",r,r,$.or.jc(s),r)],t.p),B.cd,B.a0,8,4)},
+return A.fY(B.a0,A.a([A.aV("I'm Puneet Raj \u2013 Founder(Khaana Paani)",r,r,$.or.jc(s),r),A.dh("assets/emojis/founder.png",r,r,24,24),A.aV(" Flutter Developer",r,r,$.or.jc(s),r),A.dh("assets/emojis/productmanager.png",r,r,24,24),A.aV(" Product Manager",r,r,$.or.jc(s),r),A.dh("assets/emojis/flutterdev.png",r,r,24,24),A.aV(" UX Designer",r,r,$.or.jc(s),r),A.dh("assets/emojis/ux.png",r,r,24,24),A.aV("and Visual Storyteller",r,r,$.or.jc(s),r),A.dh("assets/emojis/vt.png",r,r,24,24),A.aV(".",r,r,$.or.jc(s),r)],t.p),B.cd,B.a0,8,4)},
 mh(a,b){a=A.a0b(0,100,a)
 b=A.a0b(0,100,b)
 return A.afo(A.mc(a),A.mc(b))},
@@ -23383,7 +23383,7 @@ l.push(new A.fU(n[0],n[1],n[2],n[3],B.hp[m]))}return l},
 dz(a){var s,r=this.a
 r===$&&A.b()
 r=r.a.getGlyphPositionAtCoordinate(a.a,a.b)
-s=B.CN[B.c.a4(r.affinity.value)]
+s=B.CM[B.c.a4(r.affinity.value)]
 return new A.aC(B.c.a4(r.pos),s)},
 Mk(a){var s=this.a
 s===$&&A.b()
@@ -26450,7 +26450,7 @@ TS(){var s=this,r=s.r
 if(r==null){r=s.r=new A.rx(s.c)
 r.d=new A.Vw(s)}return r},
 Ll(a){var s,r=this
-if(B.b.p(B.CF,a.type)){s=r.TS()
+if(B.b.p(B.CE,a.type)){s=r.TS()
 s.toString
 s.sy4(r.c.$0().v4(5e5))
 if(r.f!==B.kA){r.f=B.kA
@@ -64315,7 +64315,7 @@ s=A.dP(o,r,s,"UrbanTap")
 r=A.fV(o,o,$.ai.a,o,B.dM,o,o,o,o,o,o,o,o,o,B.U,o,o,!0,o,o,o,o,o,o,o,o)
 q=A.Ib(o,o)
 q.bk=new A.RJ(p,a)
-return A.a([B.JN,B.JL,B.JI,n,B.JK,m,B.JO,s,B.JJ,A.dP(o,q,r,"Lepton Software"),B.JH,A.dP(o,o,A.fV(o,o,$.ai.a,o,o,o,o,o,o,o,o,o,o,o,B.U,o,o,!0,o,o,o,o,o,o,o,o),"Vodafone, "),A.dP(o,o,A.fV(o,o,$.ai.a,o,o,o,o,o,o,o,o,o,o,o,B.U,o,o,!0,o,o,o,o,o,o,o,o),"Jio, Tataplay, Bombay Gas"),B.JM],t.Ne)},
+return A.a([B.JI,B.JJ,B.JH,n,B.JO,m,B.JK,s,B.JM,A.dP(o,q,r,"Lepton Software"),B.JN,A.dP(o,o,A.fV(o,o,$.ai.a,o,o,o,o,o,o,o,o,o,o,o,B.U,o,o,!0,o,o,o,o,o,o,o,o),"Vodafone, "),A.dP(o,o,A.fV(o,o,$.ai.a,o,o,o,o,o,o,o,o,o,o,o,B.U,o,o,!0,o,o,o,o,o,o,o,o),"Jio, Tataplay, Bombay Gas"),B.JL],t.Ne)},
 tx(a,b){var s="Push Notifications",r=t.s,q=t.th,p=A.b5(["Khaana Paani",new A.mf("assets/companies/khaana_paani_logo.png","Be Hungry Always","Delhi, India","August 2020 - December 2021","Co-founder","Khaana Paani is a commission-free food outlet management system and a centralized ordering platform that I co-founded with friends. We launched it in Dehradun, partnering with Coding Ninjas to kickstart our journey. Our platform offers a comprehensive, cost-free solution for food outlets\u2014empowering them to manage their operations seamlessly, without the burden of fees or commissions. What sets us apart from traditional food delivery services is our zero-commission model\u2014we don\u2019t charge restaurants or customers a single rupee. It\u2019s a truly free and fair ecosystem, built to support local businesses and provide users with effortless access to a wide range of eateries through a single app.","https://khaanapaani.com",A.a(["Successfully onboarded over 20 restaurants in Dehradun","Partnered with Coding Ninjas","Developed and launched a commission-free food delivery platform","Implemented a user-friendly interface for both restaurants and customers"],r),A.a([new A.fM("Khaana Paani Mobile App","A Flutter-based mobile application that allows users to browse restaurants, view menus, place orders, and track deliveries in real-time. The app features a clean and intuitive interface, making it easy for users to navigate and find what they're looking for.","assets/projects/khaanapaanipartnerB.jpg",A.a(["Flutter","Firebase","Google Maps API","Razorpay Payment"],r),"https://khaanapaani.com/app"),new A.fM("Restaurant Dashboard","A web/mobile based dashboard for restaurant owners to manage their menu, track orders, handle payments, and analyze sales data. The dashboard provides real-time updates and insights, helping restaurant owners make informed decisions.","assets/projects/khaanapaaniB.jpg",A.a(["Flutter","Firebase","MongoDB","Express.js","Chart.js"],r),"https://khaanapaani.com/dashboard")],q),A.a(["Flutter","React.js","Node.js","Firebase","MongoDB","Chart.js","Express.js","Google Maps API","REST API"],r)),"Vapprtech/i2pify",new A.mf("assets/companies/vapprtech_logo.png","Digital Transformation Solutions","Remote","January 2021 - October 2023","Product Manager & Mobile Developer","At Vapprtech/i2pify, I worked on various digital transformation projects for government entities, including the Governments of Nigeria and Rajasthan. My role involved product management, client interactions, and mobile app development. I was responsible for understanding client requirements, designing solutions, and delivering high-quality products that met their specific needs.","https://i2pify.ai",A.a(["Lead product development for various projects like for government projects in Rajasthan and political parties of Nigeria","Successfully delivered multiple mobile applications ","Managed client relationships and ensured timely delivery of projects","Implemented efficient workflows for remote collaboration across international teams"],r),A.a([new A.fM("RYMP","Designed for Yuva Mitras(Interns), the app serves as a centralized platform to manage field activities, track progress, report issues, digital survey forms, scheme tracking, and stay updated with government schemes. It enables real-time data entry, task management, and communication between Mitras and administrative authorities, ensuring efficient monitoring and implementation of welfare programs across the state.","assets/projects/rajasthan_app.png",A.a(["Flutter","Firebase","RESTful APIs"],r),"https://vapprtech.com/rajasthan"),new A.fM("CEMITS","CEMITS is a robust mobile application designed to facilitate digital field surveys and real-time tracking of government scheme benefits.","assets/projects/nigeria_platform.png",A.a(["Flutter","Firebase","RESTful APIs"],r),"https://apps.apple.com/in/app/cemits/id1659009336"),new A.fM("Gourmet Planet/GP Life","Gourmet Planet is your go-to mobile app for exploring everything delicious happening in the food world around you. Whether you're a passionate foodie or just love discovering new tastes, Gourmet Planet connects you to exclusive food events, pop-ups, and restaurants serving special cuisines within the vibrant Gourmet Planet community.","assets/projects/gp.jpeg",A.a(["Flutter","Firebase","RESTful APIs"],r),"https://apps.apple.com/in/app/gp-world/id1638079441"),new A.fM("Spindle: Eco Smart File Wallet","Spindle, where traditional bills and receipts are a thing of the past. App allows you to access crucial documents effortlessly, embracing a paperless future. Say goodbye to paperwork hassles and dive into the future of document management with Spindle. With Spindle, you can easily manage your bills, receipts, and important documents all in one place. App is designed to help you stay organized and reduce clutter, making it easier than ever to access your important information.","assets/projects/spindleB.jpg",A.a(["Flutter","Firebase","RESTful APIs",s],r),"https://apps.apple.com/in/app/spindle-eco-smart-file-wallet/id6466167486")],q),A.a(["Flutter","Dart","Java","Swift","Firebase","OneSignal","Google Maps","Firebase","Figma","Adobe XD","Adobe Photoshop","Adobe Premiere Pro","Agile Methodologies","Git","Jira","Slack"],r)),"UrbanTap",new A.mf("assets/companies/urbantap_logo.png","Real-Estate Networking Platform","Dubai, UAE","October 2023 - June 2024","Mobile App Developer","Urbantap is a mobile based real estate networking platform built to connect property professionals, investors, brokers, developers, and buyers\u2014all under one digital roof. Whether you're scouting for investment opportunities, showcasing listings, or expanding your network, Urbantap makes it seamless. With features like real-time messaging, verified profiles, property discovery, and smart lead generation, Urbantap empowers users to collaborate, close deals faster, and stay ahead in the dynamic real estate landscape. I was responsible for developing the mobile application, ensuring a smooth user experience, and integrating various features to enhance functionality.","https://www.urbantap.io/",A.a(["Designed and developed the entire mobile application from scratch","Implemented Bloc architecture for state management","Integrated MVVM pattern for better code organization","Created a user-friendly interface with Flutter","Ensured high performance and responsiveness across devices"],r),A.a([new A.fM("UrbanTap","Urbantap is a mobile based real estate networking platform built to connect property professionals, investors, brokers, developers, and buyers\u2014all under one digital roof.","assets/projects/urbantap_customer.png",A.a(["Flutter","Firebase","Google Maps","Firebase",s],r),"https://urbantap.in/app")],q),A.a(["Flutter","Firebase","Google Maps","Firebase",s],r)),"Lepton Software",new A.mf("assets/companies/lepton_logo.png","Software Solutions for Telecom Industry","Gurgaon, Haryana, India","July 2024 - Present","Mobile Application Developer","At Lepton Software, I am developing products for the telecom industry, working with major clients such as Vodafone, Jio, Tataplay, and Bombay Gas. My responsibilities include designing and implementing mobile applications, integrating with backend services, and ensuring optimal performance and user experience across different devices.","https://leptonsoftware.com/",A.a(["Developed mobile applications for major telecom providers in India/abroad","Implemented complex features like real-time location tracking of patroller, face recognition, etc.","Optimized app performance for various device specifications","Collaborated with cross-functional teams to deliver end-to-end solutions"],r),A.a([new A.fM("Vodafone Customer App","uwFM is an all-in-one workforce management solution tailored for the telecom industry. It streamlines collaboration between Patrollers, Field Engineers, and Managers through real-time tracking, automated workflows, and task management, ensuring faster issue resolution, reduced downtime, and a more reliable telecom infrastructure.","assets/projects/vodafone_app.png",A.a(["Flutter","Firebase","Google Map",s],r),"https://testflight.apple.com/join/bUmHNS3v"),new A.fM("SmartInventory","SmartInventory is a specialized mobile app designed for fiber network inventory management. Built for telecom field teams and network administrators, the app provides a centralized solution to track, manage, and update fiber assets with ease.  Organized inventory of cables, joints, ducts, and more. On-the-go updates for maintenance, repairs, and asset status. Seamless integration with network planning and workflow systems. Photo logs and notes for accurate field documentation","assets/projects/jio_portal.png",A.a(["Flutter Web","Firebase","DialogFlow","Analytics"],r),"https://testflight.apple.com/join/948daUrq")],q),A.a(["Flutter","Dart","Java","Swift","REST APIs",s,"Firebase"],r))],t.N,t.g8).k(0,b)
 if(p!=null){r=A.akM(new A.RK(b,p),null,t.z)
 A.Fl(a).tT(r)}}}
@@ -65356,7 +65356,7 @@ bs(){this.cG()
 this.c9()
 this.i9()}}
 A.HY.prototype={
-I(a){var s=A.cU(a,!0,t.C),r=$.ab,q=new A.eH(B.CE,t.ly)
+I(a){var s=A.cU(a,!0,t.C),r=$.ab,q=new A.eH(B.CN,t.ly)
 return A.fY(B.b7,q.gcB(q).cF(0,new A.a5c(a,s),t.iF).cP(0),B.bz,B.a0,r*10*0.77+10,0)}}
 A.a5c.prototype={
 $1(a){var s,r,q,p,o,n=null,m=this.a,l=t.w
@@ -69716,10 +69716,10 @@ B.CC=A.a(s([B.dS,B.bi,B.cO,B.dT]),A.aE("y<hL>"))
 B.kV=A.a(s(["Mobile App Development","UI/UX Designing","Video/Photo","Marketing Strategy","Web Development"]),t.s)
 B.CO=A.a(s([137,80,78,71,13,10,26,10]),t.Z)
 B.B8=new A.jc(B.CO,"image/png")
-B.CK=A.a(s([71,73,70,56,55,97]),t.Z)
-B.Bc=new A.jc(B.CK,"image/gif")
-B.CL=A.a(s([71,73,70,56,57,97]),t.Z)
-B.Bd=new A.jc(B.CL,"image/gif")
+B.CJ=A.a(s([71,73,70,56,55,97]),t.Z)
+B.Bc=new A.jc(B.CJ,"image/gif")
+B.CK=A.a(s([71,73,70,56,57,97]),t.Z)
+B.Bd=new A.jc(B.CK,"image/gif")
 B.BH=A.a(s([255,216,255]),t.Z)
 B.Bb=new A.jc(B.BH,"image/jpeg")
 B.Cs=A.a(s([82,73,70,70,null,null,null,null,87,69,66,80]),t.Z)
@@ -69732,18 +69732,18 @@ B.Dm=new A.kN("en","US")
 B.kW=A.a(s([B.Dm]),t.ss)
 B.kX=A.a(s(["Location","Phone","Email"]),t.s)
 B.kY=A.a(s([0,0,65490,12287,65535,34815,65534,18431]),t.t)
-B.CE=A.a(s(["https://img.icons8.com/metro/308/ffffff/linkedin.png","https://img.icons8.com/material-rounded/384/ffffff/github.png","https://img.icons8.com/ios-glyphs/480/ffffff/instagram-new.png","https://img.icons8.com/android/480/ffffff/twitter.png"]),t.s)
-B.CF=A.a(s(["pointerdown","pointermove","pointerleave","pointerup","pointercancel","touchstart","touchend","touchmove","touchcancel","mousedown","mousemove","mouseleave","mouseup","keyup","keydown"]),t.s)
+B.CE=A.a(s(["pointerdown","pointermove","pointerleave","pointerup","pointercancel","touchstart","touchend","touchmove","touchcancel","mousedown","mousemove","mouseleave","mouseup","keyup","keydown"]),t.s)
 B.Jh=new A.x4(0,"left")
 B.Ji=new A.x4(1,"right")
-B.CM=A.a(s([B.Jh,B.Ji]),A.aE("y<x4>"))
+B.CL=A.a(s([B.Jh,B.Ji]),A.aE("y<x4>"))
 B.aO=new A.x8(0,"upstream")
 B.q=new A.x8(1,"downstream")
-B.CN=A.a(s([B.aO,B.q]),A.aE("y<x8>"))
+B.CM=A.a(s([B.aO,B.q]),A.aE("y<x8>"))
 B.at=new A.xc(0,"rtl")
 B.a3=new A.xc(1,"ltr")
 B.hp=A.a(s([B.at,B.a3]),A.aE("y<xc>"))
 B.hq=A.a(s(["https://www.flutter.dev","","","","","",""]),t.s)
+B.CN=A.a(s(["https://img.icons8.com/metro/308/ffffff/linkedin.png","https://img.icons8.com/material-rounded/384/ffffff/github.png","https://img.icons8.com/ios-glyphs/480/ffffff/instagram-new.png","https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000"]),t.s)
 B.kZ=A.a(s([0,0,32776,33792,1,10240,0,0]),t.t)
 B.l_=A.a(s(["https://pub.dev/packages/live_photo_detector","https://play.google.com/store/apps/details?id=com.the_hindu_way&hl=en_IN","https://play.google.com/store/apps/details?id=com.spindle.smartgenx&hl=en_IN&gl=US","","","https://play.google.com/store/apps/details?id=com.iphoneringtoneapp&hl=en_IN"]),t.s)
 B.CP=A.a(s(["assets/projects/livePhotoDetectorB.png","assets/projects/hinduB.png","assets/projects/spindleB.jpg","assets/projects/khaanapaanipartnerB.jpg","assets/projects/khaanaPaaniB.jpg","assets/projects/medkitB.png"]),t.s)
@@ -69937,24 +69937,24 @@ B.Cb=A.a(s([54,null,null,8589935158]),t.Z)
 B.Cc=A.a(s([55,null,null,8589935159]),t.Z)
 B.Cd=A.a(s([56,null,null,8589935160]),t.Z)
 B.Ce=A.a(s([57,null,null,8589935161]),t.Z)
-B.CG=A.a(s([8589934852,8589934852,8589934853,null]),t.Z)
+B.CF=A.a(s([8589934852,8589934852,8589934853,null]),t.Z)
 B.BM=A.a(s([4294967555,null,4294967555,null]),t.Z)
 B.BN=A.a(s([4294968065,null,null,8589935154]),t.Z)
 B.BO=A.a(s([4294968066,null,null,8589935156]),t.Z)
 B.BP=A.a(s([4294968067,null,null,8589935158]),t.Z)
 B.BQ=A.a(s([4294968068,null,null,8589935160]),t.Z)
 B.BV=A.a(s([4294968321,null,null,8589935157]),t.Z)
-B.CH=A.a(s([8589934848,8589934848,8589934849,null]),t.Z)
+B.CG=A.a(s([8589934848,8589934848,8589934849,null]),t.Z)
 B.BL=A.a(s([4294967423,null,null,8589935150]),t.Z)
 B.BR=A.a(s([4294968069,null,null,8589935153]),t.Z)
 B.BK=A.a(s([4294967309,null,null,8589935117]),t.Z)
 B.BS=A.a(s([4294968070,null,null,8589935159]),t.Z)
 B.BW=A.a(s([4294968327,null,null,8589935152]),t.Z)
-B.CI=A.a(s([8589934854,8589934854,8589934855,null]),t.Z)
+B.CH=A.a(s([8589934854,8589934854,8589934855,null]),t.Z)
 B.BT=A.a(s([4294968071,null,null,8589935155]),t.Z)
 B.BU=A.a(s([4294968072,null,null,8589935161]),t.Z)
-B.CJ=A.a(s([8589934850,8589934850,8589934851,null]),t.Z)
-B.q3=new A.cF(["*",B.BX,"+",B.BY,"-",B.C_,".",B.C0,"/",B.C1,"0",B.C2,"1",B.C3,"2",B.C7,"3",B.C8,"4",B.C9,"5",B.Ca,"6",B.Cb,"7",B.Cc,"8",B.Cd,"9",B.Ce,"Alt",B.CG,"AltGraph",B.BM,"ArrowDown",B.BN,"ArrowLeft",B.BO,"ArrowRight",B.BP,"ArrowUp",B.BQ,"Clear",B.BV,"Control",B.CH,"Delete",B.BL,"End",B.BR,"Enter",B.BK,"Home",B.BS,"Insert",B.BW,"Meta",B.CI,"PageDown",B.BT,"PageUp",B.BU,"Shift",B.CJ],A.aE("cF<p,F<k?>>"))
+B.CI=A.a(s([8589934850,8589934850,8589934851,null]),t.Z)
+B.q3=new A.cF(["*",B.BX,"+",B.BY,"-",B.C_,".",B.C0,"/",B.C1,"0",B.C2,"1",B.C3,"2",B.C7,"3",B.C8,"4",B.C9,"5",B.Ca,"6",B.Cb,"7",B.Cc,"8",B.Cd,"9",B.Ce,"Alt",B.CF,"AltGraph",B.BM,"ArrowDown",B.BN,"ArrowLeft",B.BO,"ArrowRight",B.BP,"ArrowUp",B.BQ,"Clear",B.BV,"Control",B.CG,"Delete",B.BL,"End",B.BR,"Enter",B.BK,"Home",B.BS,"Insert",B.BW,"Meta",B.CH,"PageDown",B.BT,"PageUp",B.BU,"Shift",B.CI],A.aE("cF<p,F<k?>>"))
 B.ER=new A.cF([0,"FontWeight.w100",1,"FontWeight.w200",2,"FontWeight.w300",3,"FontWeight.w400",4,"FontWeight.w500",5,"FontWeight.w600",6,"FontWeight.w700",7,"FontWeight.w800",8,"FontWeight.w900"],A.aE("cF<k,p>"))
 B.lg=new A.f(32)
 B.DG=new A.f(33)
@@ -71099,14 +71099,14 @@ B.JF=new A.cW(-1,-1)
 B.wa=new A.Ij(0,"left")
 B.wb=new A.Ij(1,"right")
 B.JG=new A.xi(null,null,null)
-B.JH=new A.ed(". Here, I am developing products of telecom industry, for various clients like ",null,null,B.aH,null)
-B.JI=new A.ed(". After graduation, instead of taking a full-time job, I started teaching coding part-time and co-founded ",null,null,B.aH,null)
-B.JJ=new A.ed(" for a friend for 8 months before joining ",null,null,B.aH,null)
-B.JK=new A.ed(" with friends. We launched it in Dehradun, partnered with Coding Ninjas, and onboarded restaurants and users, where we provided food outlet management system to food outlets for free of cost and we didn't charge any commision from the users as well. After that, I joined ",null,null,B.aH,null)
-B.JL=new A.ed("Guru Gobind Singh Indraprastha University",null,null,B.aH,B.f9)
-B.JM=new A.ed(" and more.",null,null,B.aH,null)
-B.JN=new A.ed("I hold a B.Tech in Information Technology from ",null,null,B.aH,null)
-B.JO=new A.ed(", working with the Governments of Nigeria and Rajasthan on product management, client interactions, and mobile app development for 1.8 years. After that, I developed ",null,null,B.aH,null)
+B.JH=new A.ed(". I dodged the usual nine-to-five to teach coding part-time and co-founded ",null,null,B.aH,null)
+B.JI=new A.ed("Armed with a B.Tech in IT from ",null,null,B.aH,null)
+B.JJ=new A.ed("Guru Gobind Singh Indraprastha University",null,null,B.aH,B.f9)
+B.JK=new A.ed(",where I partnered with the governments of Nigeria and Rajasthan on product strategy, product development, client relations, and mobile-app launches. An eight-month sprint building ",null,null,B.aH,null)
+B.JL=new A.ed(" and more.",null,null,B.aH,null)
+B.JM=new A.ed(" followed, before I landed at ",null,null,B.aH,null)
+B.JN=new A.ed(", crafting telecom solutions for ",null,null,B.aH,null)
+B.JO=new A.ed("\u2014a free, no-commission food-outlet ordering system which we rolled out in Dehradun with Coding Ninjas. Next up: 1.8 years at ",null,null,B.aH,null)
 B.yN=new A.l(3506372608)
 B.zA=new A.l(4294967040)
 B.Jz=new A.a5M(1,"double")
